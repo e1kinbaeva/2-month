@@ -41,7 +41,7 @@ mercedes = Car("Mers", "black", 320)
 mercedes.info()
 mercedes.fill(100)
 mercedes.start()
-mercedes.drive(200)
+mercedes.drive(100)
 mercedes.stop()
 
 
@@ -50,4 +50,10 @@ mercedes.stop()
 # print(bmw.model, bmw.color)
 # bmw.info()
 # bmw.drive()
+
+
+
+
+
+print("Hello worl.d")
 
